@@ -1,0 +1,12 @@
+path: C:\Users\hp\Desktop\EYE Wear Detection\dataset
+
+train : images/train
+val : images/val
+
+names:
+  0: Eye Wear
+
+
+  
+
+
